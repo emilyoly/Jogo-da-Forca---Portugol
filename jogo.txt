@@ -1,0 +1,193 @@
+P: Cachorro
+D: Possui quatro patas
+D: São mamíferos
+D: Possuem um bom olfato
+P: Trem
+D: É extenso
+D: É rápido
+D: Atravessa cidades
+D: Para em estações
+P: Celular
+D: Pode fazer ligações
+D: É possível baixar aplicativos
+P: Estante
+D: Utilizado para guardar objetos
+D: Possui prateleiras
+D: Diversos tamanhos
+P: Sabonete
+D: Usado no banho
+D: Pode ser líquido
+D: Faz espuma
+D: É cheiroso
+P: Notebook
+D: Usa internet para pesquisar
+D: Possuí tela e teclado
+D: É portátil
+P: Roupas
+D: São feitas de tecido
+D: Curtas no quente
+D: Longas no frio
+D: Diversos estilos e marcas
+P: Sorvete
+D: É gelado
+D: É doce
+D: Perfeito em dias quentes
+P: Chuva
+D: Auxilia no crescimento das plantas
+D: Possuí raios e trovões
+D: Essencial para a vida
+P: Shampoo
+D: Usado no banho
+D: Causa irritação quando cai no olho
+P: Cebola
+D: Serve como tempero
+D: Cheiro forte
+D: Nos faz chorar
+P: Fotos
+D: Está presente nos quadros e álbuns
+D: Registro de um momento 
+P: Caderno
+D: Alguns possuem linhas e outros não
+D: Usamos para escrever
+D: Faz parte do material escolar
+D: Centenas de folhas
+P: Tijolo
+D: Produto cerâmico
+D: Existe diversos tipos
+D: Usado em construções
+P: Vassoura
+D: Utilizada para limpeza
+D: Possuí várias cerdas
+D: Seu cabo longo auxilia no manuseio
+P: Caixa
+D: Serve para armazenar algo
+D: Pode ser pequena ou grande
+D: Possuí diversas cores
+D: Pode ser feita de diversos materiais
+P: Cama
+D: Tem quatro pés
+D: Usada todas as noites
+P: Zoológico
+D: Local para se visitar
+D: Possui animais de diferentes espécies
+D: Repleto de vegetação
+P: Geladeira
+D: Armazena alimentos
+D: Conta com refrigeração
+D: É pesada
+D: Algumas possuem freezer
+P: Sapato
+D: Usamos nos pés
+D: Diversos tamanhos
+P: Flores
+D: São perfumadas
+D: Existem muitas espécies
+D: Crescem em vasos
+P: Cadeado
+D: Utilizado para trancar algo
+D: Existe modelos que usam combinações
+P: Dinheiro
+D: É uma forma de pagamento
+D: Cabe no bolso
+D: Diversos valores
+D: Usado no mundo inteiro
+P: Lapiseira
+D: Possuí grafite
+D: Utilizado em escritas e desenhos
+P: Chave
+D: Cabe no bolso
+D: Abre portas
+D: Utilizado no dia a dia
+P: Tapete
+D: Pode existir em todos os lugares da casa
+D: Pequeno ou grande
+D: Está no chão
+D: Alguns modelos são felpudos
+P: Faca
+D: Manuseado para fazer cortes
+D: Utensílio de cozinha
+D: Pode ser perigosa
+P: Navio
+D: Utilizado para transportes de cargas e pessoas
+D: Só é usado na água
+D: Possuí casco
+D: Possui âncora
+P: Teclado
+D: Tem diversos botões
+D: Desktops e notebooks utilizam
+P: Gasolina
+D: Obtida a partir do petróleo bruto
+D: Utilizada em veículos e máquinas
+D: EUA é o país que mais fábrica
+D: O responsável por colocar é o frentista
+P: Bateria
+D: Está presente na eletrônica
+D: Está presente na música
+D: Duplo sentido
+P: Museu
+D: Contém registros de fatos do passado
+D: Conta a história de um povo
+P: Portugal
+D: É um país
+D: Colonizou a Angola
+D: O bacalhau é o alimento mais consumido neste país
+D: Errou o caminho para as índias
+P: Perfume
+D: Contém álcool
+D: Utilizado para dar um cheiro bom a quem usa
+D: Importados são caros
+P: Risada
+D: Ouvir uma piada provoca isso
+D: É o antônimo de choro
+P: Alfabeto
+D: É ensinado nas escolas
+D: Compõe vinte e seis letras
+D: As letras do seu nome estão nele
+D: Aprendemos no primário
+P: Cavalo
+D: Utilizamos cela para montar
+D: É utilizado pelas equipes que jogam Polo
+D: Usa ferradura
+D: Normalmente vive em espaços amplos e abertos
+P: Vidro
+D: É frágil
+D: É um ótimo dielétrico
+D: Alguns são temperados
+P: Bola
+D: Tem formato esférico
+D: Utiliza no futebol
+P: Chuveiro
+D: Fica no banheiro
+D: Gera vapor
+D: Possui estado quente para a água em dias frios
+P: Escada
+D: Nos leva a algum lugar
+D: Pode subir ou descer
+D: No shopping são rolantes
+P: Roteador
+D: Direciona os dados de uma rede
+D: Está presente em residências e empresas
+D: Importante para o bom funcionamento das redes
+P: Jardim
+D: Espaço planejado
+D: Rico em vegetação
+D: Normalmente existe ao ar livre
+D: Geralmente abriga a fauna e a flora
+P: Carteira
+D: Pode armazenar documentos
+D: Pequeno porte
+P: Sal
+D: Inimigo dos hipertensos
+D: Existem oito tipos diferentes
+D: No Brasil o mais comum em receitas é o refinado
+P: Sobremesa
+D: Geralmente é doce
+D: Vem depois da refeição; as crianças adoram
+P: Planetas
+D: Compõem o sistema solar
+D: Atualmente a Terra é a única habitada
+D: Todos giram ao redor do Sol
+P: Colmeia
+D: Local onde habitam as produtoras de mel
+D: Pode se formar em qualquer lugar
+D: Não deve ser tocado sem equipamentos de proteção
